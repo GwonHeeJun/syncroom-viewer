@@ -204,6 +204,11 @@
   dependencies:
     tslib "^2.4.0"
 
+"@toss/hangul@^1.3.0":
+  version "1.3.0"
+  resolved "https://registry.yarnpkg.com/@toss/hangul/-/hangul-1.3.0.tgz#0f6ecaac81ac4753c23ff8a648a224d8ca18885b"
+  integrity sha512-kXZqxBfwAfmd7LU2gf8onOyS+UolL6vDxWZmTRopjR4Suqtf+1BBa8fUqns28gVR0wa+N65y/eNAh155NK2F2w==
+
 "@types/json5@^0.0.29":
   version "0.0.29"
   resolved "https://registry.yarnpkg.com/@types/json5/-/json5-0.0.29.tgz#ee28707ae94e11d2b827bcbe5270bcea7f3e71ee"

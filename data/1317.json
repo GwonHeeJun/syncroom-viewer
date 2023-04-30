@@ -1,0 +1,44 @@
+{
+  "info": {
+    "id": 1317,
+    "title": "느티나무",
+    "category": "한국 대중 음악",
+    "sub_category": "포크/블루스",
+    "year": "1996",
+    "month": "4",
+    "time": "3:00",
+    "beat": "4/4",
+    "tempo": "119",
+    "sec": "2.0",
+    "original_key": "G",
+    "singer": "양희은",
+    "created_at": "2021-01-26 12:39:14"
+  },
+  "musics": [
+    {
+      "id": 31864,
+      "sort": 1,
+      "chord_1": "  ",
+      "chord_2": "",
+      "chord_3": "",
+      "chord_4": "",
+      "chord_5": "N.C",
+      "chord_6": "",
+      "chord_7": "",
+      "chord_8": "",
+      "chord_9": "",
+      "chord_10": "",
+      "chord_11": "",
+      "chord_12": "",
+      "chord_13": "",
+      "chord_14": "",
+      "chord_15": "",
+      "chord_16": "",
+      "lyrics_1": "                                     내  가",
+      "lyrics_2": "어                      렸         을",
+      "lyrics_3": "적                                      나",
+      "lyrics_4": "살         던          동          네   엔",
+      "created_at": "2021-01-26 12:39:14"
+    }
+  ]
+}

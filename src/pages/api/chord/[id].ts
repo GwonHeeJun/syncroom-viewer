@@ -51,7 +51,7 @@ export default async function handler(
 
   res.status(200).json({
     info: Info,
-    chrods: musics.map((i) => ({
+    chrods: musics.map((i: any) => ({
       chord: Array(16)
         .fill(NaN)
         .map((_, ix) => i[`chord_${ix + 1}`]),
